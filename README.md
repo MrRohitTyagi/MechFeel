@@ -40,7 +40,7 @@ Let the program run in background and Enjoy  😎😎
 
 **Python** 
 
-**Libraries:** Pynput, randon , pygame , rich
+**Libraries:** Pynput, random , pygame , rich
 
 
 ## License
