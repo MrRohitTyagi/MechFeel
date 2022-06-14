@@ -1,0 +1,32 @@
+I made a tool in Python to play mechanical keyboard sounds on every key press for non mechanical keyboard users .
+A Python CLI that makes mechanical keyboard sound effects on every key press.
+
+There are 6 different sound options to choose from.(0th recommend)
+
+HOW TO USE =>
+
+Unzip the archived file
+
+Run RunMe.exe Inside MechFeel folder
+
+All done , now simply select the sound track (0,1,2,3,4,5) ,press enter.
+
+Let the program run in background and Enjoy  😎😎
+
+===>>> MAKE SURE U WEAR EARPHONES FOR BEST EXPERIENCE. <<===
+
+
+
+Python libraries Used :
+
+1 : pynput
+
+2 : random
+
+3 : pygame
+
+4 : rich
+
+
+Developed by Rohit Tyagi :) 
+Source code : https://github.com/MrRohitTyagi
