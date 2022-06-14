@@ -38,9 +38,9 @@ Let the program run in background and Enjoy  😎😎
  
 ## Tech Stack
 
-**Python:** 
+**Python** 
 
-**Libraries:** Punput, randon , pygame , rich
+**Libraries:** Pynput, randon , pygame , rich
 
 
 ## License
